@@ -1,0 +1,5 @@
+To use this application create a Database named chat
+create a table named chat with 3 column
+column 1=>Name->Msg_ID, Type-> INT, Length/Values->11, Index->PRIMARY, AUTO-INCREMENT-> CHECKED
+column 2=>Name->Sender, Type-> VARCHAR, Length/Values->100(//Sender Name size), Index->, AUTO-INCREMENT-> UNCHECKED
+column 3=>Name->Message, Type-> TEXT, Length/Values->, Index->, AUTO-INCREMENT-> UNCHECKED
